@@ -1,0 +1,2 @@
+/Users/shawn/Unity/VRIF_Gym/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/shawn/Unity/VRIF_Gym/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

@@ -1,0 +1,2 @@
+C:\Users\devel\Desktop\IS462_2025_Spring\VRIF_Baseline\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\devel\Desktop\IS462_2025_Spring\VRIF_Baseline\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

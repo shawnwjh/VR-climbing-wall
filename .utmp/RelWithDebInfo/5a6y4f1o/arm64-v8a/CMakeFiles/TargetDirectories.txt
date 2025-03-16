@@ -1,0 +1,5 @@
+/Users/shawn/Unity/VRIF_Gym/.utmp/RelWithDebInfo/5a6y4f1o/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/shawn/Unity/VRIF_Gym/.utmp/RelWithDebInfo/5a6y4f1o/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/shawn/Unity/VRIF_Gym/.utmp/RelWithDebInfo/5a6y4f1o/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/shawn/Unity/VRIF_Gym/.utmp/RelWithDebInfo/5a6y4f1o/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/shawn/Unity/VRIF_Gym/.utmp/RelWithDebInfo/5a6y4f1o/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
